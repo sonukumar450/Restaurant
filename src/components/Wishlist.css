@@ -1,0 +1,77 @@
+.Wishlist{
+    width: 100%;
+    height: 220px;
+    background: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.Wishlist h4{
+    color: #8c8c8c;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+h4 a {
+  text-decoration: none;
+  color: #243f2f;
+}
+
+h4 a:hover {
+  color: #ff6600;
+}
+
+.Wishlist h1{
+    font-size: 45px;
+    color: #243f2f;
+}
+.Wishlist1{
+    width: 100%;
+    background: #eef4e7;
+    padding: 50px 0;
+    height: 600px;
+}
+
+.innerWishlist1{
+    width: 1100px;
+    margin: auto;
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    height: 500px;
+}
+.innerWishlist1 button{
+    height: 45px;
+    width: 220px;
+    border-radius: 40px;
+    color:#243f2f;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px soild #243f2f;
+    margin-top: 60px;
+    margin-left: 400px;
+    
+
+}
+.button:hover{
+    background-color: #243f2f;
+    color: #eef4e7;
+}
+.innerWishlist1 p{
+    text-align: center;
+    margin: 150px auto 0;
+    font-size: 30px;
+    width: 600px;
+    font-weight: bold;
+    background-color: transparent;
+}
+.innerWishlist1 h5{
+    text-align: center;
+    margin: 20px auto 0px;
+}
+.innerWishlist1 svg{
+    color: #ff6600;
+    display: block;
+     font-size: 70px;
+     margin: -270px auto 30px;
+}

@@ -1,0 +1,54 @@
+ .Buy{
+    width: 100%;
+    height: 350px;
+    background: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.Buy h4{
+    color: #8c8c8c;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+h4 a {
+  text-decoration: none;
+  color: #243f2f;
+}
+
+h4 a:hover {
+  color: #ff6600;
+}
+
+.Buy h1{
+    font-size: 45px;
+    color: #243f2f;
+}
+
+.Buy a {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 15px;
+    vertical-align: top;
+
+}
+
+.Buy img {
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+    padding: 20px;
+    transition: transform 0.8s ease;
+}
+
+.Platters img:hover {
+    transform: scale(1.15);
+}
+
+.Platters a h3 {
+    margin-top: 8px;
+    font-size: 20px;
+    color: black;
+}
